@@ -7,5 +7,6 @@ this game is a experiment in i want chalenge my avilitys
 ### [!] I recommend creating a local Python virtual environment
 
 ````
-```python -m venv g_environment``
+```bash
+python -m venv g_environment```
 ````
